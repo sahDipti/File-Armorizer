@@ -1,4 +1,4 @@
-# FileArmorizer (Dipti's version)
+# FileArmorizer (Steganography)
 FileArmorizer is a web application that helps you add security to your files or to protect them with passwords.
 
 ## How To Use
